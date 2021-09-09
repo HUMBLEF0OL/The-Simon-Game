@@ -1,4 +1,5 @@
 # :video_game: The-Simon-Game :video_game:
+[Game Link](https://humblef0ol.github.io/The-Simon-Game/)
 ## HISTORY
     The Father of the Video Game was also the inventor of Simon. 
     Inventor Ralph Baer is best known for developing the first video game system, but he accomplished far more. 
@@ -15,4 +16,3 @@
     - Players had to be able to repeat an increasingly long string of tones that Simon created. 
     - If you got the order wrong, you lost.  
     
-[Game Link](https://humblef0ol.github.io/The-Simon-Game/)
