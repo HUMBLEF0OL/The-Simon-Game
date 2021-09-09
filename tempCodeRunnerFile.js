@@ -1,0 +1,2 @@
+osenColour;
+console.log(gamePattern);

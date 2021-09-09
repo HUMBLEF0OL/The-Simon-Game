@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Simon</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+</head>
+
+<body>
+  <h1 id="level-title">Press A Key to Start</h1>
+  <div class="container">
+    <div class="row">
+
+      <div type="button" id="green" class="btn green">
+
+      </div>
+
+      <div type="button" id="red" class="btn red">
+
+      </div>
+    </div>
+
+    <div class="row">
+
+      <div type="button" id="yellow" class="btn yellow">
+
+      </div>
+      <div type="button" id="blue" class="btn blue">
+
+      </div>
+
+    </div>
+
+  </div>
+  <div class="instructions">
+    <h1>INSTRUCTIONS</h1>
+    <ul>
+      <li>The game shows the first colour in the sequence (lets say blue). The user clicks on the blue button. </li>
+      <li>Next, the game shows the next colour (red), the user has to remember the sequence is blue, red and so on and so forth.</li>
+      <li>If the user messes up the sequence, then the game ends. </li>
+      <li>Otherwise a new step will be added on top of the previous sequence!</li>
+    </ul>
+  </div>
+  <!-- adding jQuery CDN -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="game.js"></script>
+
+</body>
+
+</html>
