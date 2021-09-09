@@ -1,9 +1,9 @@
 # :video_game: The-Simon-Game :video_game:
 [Game Link](https://humblef0ol.github.io/The-Simon-Game/)
 ## HISTORY
-    The Father of the Video Game was also the inventor of Simon. 
-    Inventor Ralph Baer is best known for developing the first video game system, but he accomplished far more. 
-    Named for the children’s game of “Simon Says,” the game was inspired by an Atari arcade game called Touch Me.
+The Father of the Video Game was also the inventor of Simon. 
+Inventor Ralph Baer is best known for developing the first video game system, but he accomplished far more. 
+Named for the children’s game of “Simon Says,” the game was inspired by an Atari arcade game called Touch Me.
 
 ## TECHNOLOGY USED
     - HTML
